@@ -8248,6 +8248,30 @@
 			(justify bottom)
 		)
 	)
+	(gr_text "A10"
+		(at 152.4 83.82 90)
+		(layer "B.SilkS")
+		(uuid "1a68915c-5d66-4791-8dc5-d668450f110e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.153)
+			)
+			(justify left mirror)
+		)
+	)
+	(gr_text "A8"
+		(at 147.32 83.82 90)
+		(layer "B.SilkS")
+		(uuid "29149da1-be74-47be-b475-dd69e2962a22")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.153)
+			)
+			(justify left mirror)
+		)
+	)
 	(gr_text "University of Washington ECE\nEE 201 Winter 2026 Section AD\nFinal Project Sensor Array\nCarefully crafted by:\nYung-Ching, Thy, and Yehoshua"
 		(at 185.42 81.28 0)
 		(layer "B.SilkS")
@@ -8260,6 +8284,78 @@
 			(justify mirror)
 		)
 	)
+	(gr_text "A9"
+		(at 149.86 83.82 90)
+		(layer "B.SilkS")
+		(uuid "783593f7-a712-4def-b8d2-ad6a6923276b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.153)
+			)
+			(justify left mirror)
+		)
+	)
+	(gr_text "A11"
+		(at 154.94 83.82 90)
+		(layer "B.SilkS")
+		(uuid "8c667f44-f6be-4622-8a8e-f609931b4691")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.153)
+			)
+			(justify left mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 160.02 102.87 0)
+		(layer "B.SilkS")
+		(uuid "99e8e843-ea30-4669-bf95-13007fc2177e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.153)
+			)
+			(justify bottom mirror)
+		)
+	)
+	(gr_text "A12"
+		(at 157.48 83.82 90)
+		(layer "B.SilkS")
+		(uuid "a8b16929-a119-43f6-a989-8baefc68cac8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.153)
+			)
+			(justify left mirror)
+		)
+	)
+	(gr_text "VCC"
+		(at 160.02 93.98 0)
+		(layer "B.SilkS")
+		(uuid "b514ed19-fca1-4871-a307-864ecbe0aff8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.153)
+			)
+			(justify bottom mirror)
+		)
+	)
+	(gr_text "A13"
+		(at 160.02 83.82 90)
+		(layer "B.SilkS")
+		(uuid "c8d7e711-ed22-40fb-aa43-7368dc9db61a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.153)
+			)
+			(justify left mirror)
+		)
+	)
 	(gr_text "Connect on this side!"
 		(at 154.94 78.74 0)
 		(layer "B.SilkS")
@@ -8270,6 +8366,18 @@
 				(thickness 0.153)
 			)
 			(justify bottom mirror)
+		)
+	)
+	(gr_text "A14"
+		(at 162.56 83.82 90)
+		(layer "B.SilkS")
+		(uuid "fa3ce736-14cd-4211-a12a-058e47fbe453")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.153)
+			)
+			(justify left mirror)
 		)
 	)
 	(segment

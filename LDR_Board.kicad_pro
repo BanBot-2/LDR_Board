@@ -512,7 +512,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../Final Modeling/LDR_Board.step",
       "svg": "",
       "vrml": ""
     },

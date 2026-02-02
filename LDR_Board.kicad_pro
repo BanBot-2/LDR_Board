@@ -509,7 +509,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerber_Files/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../Final Modeling/LDR_Board.step",
